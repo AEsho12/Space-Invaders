@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba34765b-5af1-4ed4-8533-d071ee818ba1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/GameBackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/GameEnemy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/GameEnemy2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/GameEnemy3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alienMain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bullet2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/enemyMain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/invador1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/lives.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/newTitle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/spaceship2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/spaceweb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/stars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/title2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Bullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Enemy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/GameStage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/KL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MenuStage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Rect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Stage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Window.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2Z89j51ab031VfK6SyXnKgImu5Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba34765b-5af1-4ed4-8533-d071ee818ba1" name="Changes" comment="" />
+      <created>1701792974390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701792974390</updated>
+      <workItem from="1701792975230" duration="42145000" />
+      <workItem from="1702473544507" duration="37631000" />
+      <workItem from="1729322582753" duration="336000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
